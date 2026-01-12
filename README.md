@@ -66,6 +66,12 @@ Passionate about innovation, data-driven decisions, and impactful AI solutions.
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
+---
+## 💡 Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+</p>
+
 
 ---
 ## 📫 Contact & Links
