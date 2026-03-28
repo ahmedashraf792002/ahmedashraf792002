@@ -1,8 +1,4 @@
-
-
 <h1 align="center" style="color:red; font-family: 'Fira Code', monospace; font-size: 56px;">Ahmed Ashraf</h1>
-
-
 
 <!-- Typing animation for About Me -->
 <p align="center">
@@ -21,36 +17,36 @@ Passionate about innovation, data-driven decisions, and impactful AI solutions.
 
 ## 🛠 Skills
 
+### 💻 Programming Languages
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+### 🤖 Machine Learning & Deep Learning
 <p align="center">
-  <!-- ML & DL -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
+### 🧠 NLP & LLM
 <p align="center">
-  <!-- NLP & LLM -->
   <img src="https://img.shields.io/badge/NLTK-2C2C2C?style=for-the-badge&logo=nltk&logoColor=white" />
   <img src="https://img.shields.io/badge/SpaCy-FF6600?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
+### 🖼 Computer Vision
 <p align="center">
-  <!-- CV -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white" />
 </p>
 
+### 📊 Data Analysis & Visualization
 <p align="center">
-  <!-- Data & Visualization -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
@@ -58,8 +54,8 @@ Passionate about innovation, data-driven decisions, and impactful AI solutions.
   <img src="https://img.shields.io/badge/PowerBI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
 </p>
 
+### 🚀 MLOps & Deployment
 <p align="center">
-  <!-- MLOps & Deployment -->
   <img src="https://img.shields.io/badge/MLflow-6F6F6F?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -67,13 +63,14 @@ Passionate about innovation, data-driven decisions, and impactful AI solutions.
 </p>
 
 ---
+
 ## 💡 Random Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </p>
 
-
 ---
+
 ## 📫 Contact & Links
 <p align="center">
   <a href="mailto:ahmedashraf390@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
