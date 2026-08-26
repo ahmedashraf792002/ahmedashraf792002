@@ -1,60 +1,77 @@
-# 💫 About Me:
-Hi there! I'm Ahmed Ashraf,  
-an AI Engineer & Data Scientist  
-from Shibin El Qanater, Qalyubia Governorate.  
+<h1 align="center">Ahmed Ashraf</h1>
 
-I specialize in **Agentic AI, Generative AI, RAG, and LLM applications**.  
-Experienced in designing AI agents, multi-agent workflows, prompt engineering, model fine-tuning, NLP, computer vision, and scalable AI solutions.  
-
-Strong foundation in machine learning and deep learning, with hands-on experience in **RAG pipelines, intelligent automation, MLOps, model deployment, and production-ready AI applications**. Passionate about applying Generative AI to solve complex real-world problems and deliver impactful business solutions.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ahmed-Ashraf/pfbid0GFnkrn7c8wQgP1Uvk7PP5FWu3Ah8aZgvMBcfLEZWKMe8H2ukyyrqYM7p98WmSmasl/?mibextid=qi2Omg&rdid=TPXxbGdKo974Z7UI&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FjjDCRXxsUoB2dRwf%2F%3Fmibextid%3Dqi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedashraf792002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-ashraf-59a207234) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18392351/ahmed-ashraf-ahmed) [![Kaggle](https://img.shields.io/badge/Kaggle-%2300B4D8.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedashrafahmed)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AhmedA792002) 
-
-# 💻 Tech Stack:
-### Programming Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-
-### ML & DL:
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-
-### NLP:
-![NLTK](https://img.shields.io/badge/NLTK-%2300B4D8.svg?style=plastic&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=plastic&logo=spacy&logoColor=white)
-
-### Computer Vision:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-
-### Generative AI & Agents:
-![LangChain](https://img.shields.io/badge/LangChain-%2300B4D8.svg?style=plastic&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-%2300B4D8.svg?style=plastic&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%2300B4D8.svg?style=plastic&logo=llamaindex&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-%23FF6B6B.svg?style=plastic&logo=crewai&logoColor=white)
-
-### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-
-### Data Analysis:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
-
-### MLOps & Deployment:
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white)
-
-### BI & Visualization:
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%231F77B4.svg?style=plastic&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedashraf792002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedashraf792002&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedashraf792002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedashraf792002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmedashraf792002&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- Typing animation for About Me -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=60&lines=AI+%26+ML+Engineer;Data+Scientist;NLP+%26+CV+Specialist" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmedashraf792002&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+AI & ML Engineer with a strong foundation in AI & Computer Science.  
+Specializes in designing, developing, and optimizing ML & DL models for NLP, CV, and predictive analytics.  
+Experienced in transformer-based architectures (LLMs) and MLOps for production-ready AI systems.  
+Passionate about innovation, data-driven decisions, and impactful AI solutions.
+
+---
+
+## 🛠 Skills
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- ML & DL -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- NLP & LLM -->
+  <img src="https://img.shields.io/badge/NLTK-2C2C2C?style=for-the-badge&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpaCy-FF6600?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- CV -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Data & Visualization -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- MLOps & Deployment -->
+  <img src="https://img.shields.io/badge/MLflow-6F6F6F?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="mailto:ahmedashraf390@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-ashraf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ahmedashraf792002"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/ahmedashrafahmed"><img src="https://img.shields.io/badge/Kaggle-%231DB954?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedashraf792002&style=flat-square&color=blue" alt="Profile Views" />
+</p>
