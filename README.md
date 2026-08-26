@@ -135,14 +135,11 @@ AI Engineer specializing in Agentic AI, Generative AI, RAG, and LLM applications
 
 ---
 
+
 ## 🤖 AI Quote
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=160&section=header&text=AI%20Amplifies%20Human%20Potential&fontSize=24&fontColor=38bdf8&animation=fadeIn&fontAlignY=50" />
-</p>
-
-<p align="center">
-  <i>“Build intelligent systems. Create meaningful impact.”</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
